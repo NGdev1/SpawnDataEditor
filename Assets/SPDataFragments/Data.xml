@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnimalRun>
+  <Podstavi count="1">
+    <SpawnSequence count="1">
+      <SpawnData time="0">
+        <CarData line="0" count="7">
+          <Car speed="0" dist="20" type="car" />
+          <Car speed="0" dist="25" type="car" />
+          <Car speed="0" dist="30" type="car" />
+          <Car speed="0" dist="35" type="car" />
+          <Car speed="0" dist="40" type="car" />
+          <Car speed="0" dist="0" type="big" />
+          <Car speed="0" dist="9" type="big" />
+        </CarData>
+        <CarData line="1" count="1">
+          <Car speed="0" dist="0" type="megamega" />
+        </CarData>
+        <CarData line="2" count="3">
+          <Car speed="0" dist="0" type="big" />
+          <Car speed="0" dist="9" type="big" />
+          <Car speed="0" dist="18" type="megamega" />
+        </CarData>
+        <CarData line="3" count="5">
+          <Car speed="0" dist="18" type="big" />
+          <Car speed="0" dist="36" type="big" />
+          <Car speed="0" dist="45" type="big" />
+          <Car speed="0" dist="8.6" type="big" />
+          <Car speed="0" dist="0" type="big" />
+        </CarData>
+      </SpawnData>
+    </SpawnSequence>
+  </Podstavi>
+</AnimalRun>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnimalRun>
+  <LesoPodstavi count="1">
+    <ForestSequence count="1" free="False">
+      <SpawnData time="0">
+        <EntityData line="0" count="3">
+          <Entity speed="0" dist="0" type="lift" />
+          <Entity speed="0" dist="8" type="mega" />
+          <Entity speed="0" dist="33" type="mega" />
+        </EntityData>
+        <EntityData line="1" count="2">
+          <Entity speed="10" dist="80" type="mega" />
+          <Entity speed="10" dist="108" type="mega" />
+        </EntityData>
+        <EntityData line="2" count="7">
+          <Entity speed="0" dist="36" type="mega" />
+          <Entity speed="0" dist="72.7" type="barrier" />
+          <Entity speed="0" dist="49" type="big" bonusId="0" />
+          <Entity speed="0" dist="0" type="barrier" />
+          <Entity speed="0" dist="30" type="car" />
+          <Entity speed="0" dist="25" type="car" />
+          <Entity speed="0" dist="21" type="barrier" />
+        </EntityData>
+      </SpawnData>
+    </ForestSequence>
+  </LesoPodstavi>
+</AnimalRun>

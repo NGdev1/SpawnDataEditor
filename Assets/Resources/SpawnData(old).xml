@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AnimalRun>
+	<Podstavi count = "1">
+		<SpawnSequence count="1" free="false" time="7">
+			<SpawnData id = "0">
+				<CarData line = "0" count="9">
+					<Car speed="0" dist="20" type="big" />
+					<Car speed="0" dist="28" type="car" />
+					<Car speed="0" dist="35" type="car" />
+					<Car speed="0" dist="42" type="car" />
+					<Car speed="0" dist="50" type="car" />
+					<Car speed="0" dist="58" type="car" />
+					<Car speed="0" dist="65" type="car" />
+					<Car speed="0" dist="73" type="car" />
+					<Car speed="0" dist="85" type="mega" />
+				</CarData>
+				<CarData line = "1" count="10">
+					<Car speed="0" dist="18" type="mega" />
+					<Car speed="0" dist="27" type="car" />
+					<Car speed="0" dist="35" type="car" />
+					<Car speed="0" dist="43" type="car" />
+					<Car speed="0" dist="52" type="car" />
+					<Car speed="0" dist="61" type="car" />
+					<Car speed="0" dist="74" type="mega" />
+					<Car speed="0" dist="83" type="car" />
+					<Car speed="0" dist="91" type="car" />
+					<Car speed="0" dist="100" type="car" />
+				</CarData>
+				<CarData line = "2" count="9">
+					<Car speed="0" dist="20" type="moto" />
+					<Car speed="0" dist="28" type="mega" />
+					<Car speed="0" dist="39" type="car" />
+					<Car speed="0" dist="47" type="car" />
+					<Car speed="0" dist="60" type="mega" />
+					<Car speed="0" dist="70" type="car" />
+					<Car speed="0" dist="79" type="car" />
+					<Car speed="0" dist="87" type="car" />
+					<Car speed="0" dist="86" type="car" />
+				</CarData>
+				<CarData line = "3" count="9">
+					<Car speed="0" dist="20" type="car" />
+					<Car speed="0" dist="27" type="car" />
+					<Car speed="0" dist="38" type="mega" />
+					<Car speed="0" dist="50" type="big" />
+					<Car speed="0" dist="65" type="mega" />
+					<Car speed="0" dist="71" type="car" />
+					<Car speed="0" dist="80" type="car" />
+					<Car speed="0" dist="89" type="car" />
+					<Car speed="0" dist="98" type="car" />
+				</CarData>
+			</SpawnData>
+		</SpawnSequence>
+	</Podstavi>
+	<LesoPodstavi count="1">
+		<ForestSequence count="1" free="false" time="7">
+			<SpawnData id = "0">
+				<EntityData line = "0" count="4">
+					<Entity speed="0" dist="24" type="lift" />
+					<Entity speed="0" dist="33" type="mega" />
+					<Entity speed="0" dist="46" type="mega" />
+					<Entity speed="0" dist="80" type="mega" bonusId="0"/>
+				</EntityData>
+				<EntityData line = "1" count="3">
+					<Entity speed="10" dist="120" type="mega" />
+					<Entity speed="10" dist="145" type="mega" />
+					<Entity speed="10" dist="170" type="mega" />
+				</EntityData>
+				<EntityData line = "2" count="3">
+					<Entity speed="0" dist="24" type="lift" />
+					<Entity speed="0" dist="33" type="mega" />
+					<Entity speed="0" dist="46" type="mega" />
+				</EntityData>
+			</SpawnData>
+		</ForestSequence>
+	</LesoPodstavi>
+</AnimalRun>

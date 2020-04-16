@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnimalRun>
+	<Podstavi count = "6">
+		<SpawnSequence count="5" free="true">
+			<SpawnData id = "0">
+				<CarData line = "0" count="1">
+					<Car speed="50" dist="20" type="mega" />
+				</CarData>
+				<CarData line = "1" count="2">
+					<Car speed="50" dist="20" type="mega" />
+					<Car speed="50" dist="80" type="mega" />
+				</CarData>
+				<CarData line = "2" count="1">
+					<Car speed="50" dist="60" type="mega" />
+				</CarData>
+				<CarData line = "3" count="2">
+					<Car speed="50" dist="20" type="mega" />
+					<Car speed="60" dist="70" isBig="false" />
+				</CarData>
+			</SpawnData>
+			<SpawnData id = "1">
+				<CarData line = "0" count="1">
+					<Car speed="50" dist="10" type="mega" />
+				</CarData>
+				<CarData line = "1" count="1">
+					<Car speed="50" dist="30" isBig="false" />
+				</CarData>
+				<CarData line = "2" count="1">
+					<Car speed="50" dist="10" type="mega" />
+				</CarData>
+				<CarData line = "3" count="1">
+					<Car speed="50" dist="10" type="mega" />
+				</CarData>
+			</SpawnData>
+			<SpawnData id = "2">
+				<CarData line = "0" count="1">
+					<Car speed="50" dist="20" type="mega" />
+				</CarData>
+				<CarData line = "1" count="1">
+					<Car speed="50" dist="20" type="mega" />
+				</CarData>
+				<CarData line = "2" count="2">
+					<Car speed="50" dist="20" isBig="false" />
+					<Car speed="45" dist="60" type="mega" />
+				</CarData>
+				<CarData line = "3" count="1">
+					<Car speed="50" dist="20" type="mega" />
+				</CarData>
+			</SpawnData>
+			<SpawnData id = "3">
+				<CarData line = "0" count="1">
+					<Car speed="53" dist="60" isBig="false" />
+				</CarData>
+				<CarData line = "1" count="1">
+					<Car speed="30" dist="10" type="mega" />
+				</CarData>
+				<CarData line = "2" count="1">
+					<Car speed="35" dist="15" type="mega" />
+				</CarData>
+				<CarData line = "3" count="1">
+					<Car speed="36" dist="20" type="mega" />
+				</CarData>
+			</SpawnData>
+			<SpawnData id = "4">
+				<CarData line = "0" count="1">
+					<Car speed="36" dist="18" type="mega" />
+				</CarData>
+				<CarData line = "1" count="1">
+					<Car speed="35" dist="15" type="mega" />
+				</CarData>
+				<CarData line = "2" count="1">
+					<Car speed="34" dist="12" type="mega" />
+				</CarData>
+				<CarData line = "3" count="2">
+					<Car speed="53" dist="60" isBig="false" />
+					<Car speed="45" dist="70" type="mega" />
+				</CarData>
+			</SpawnData>
+		</SpawnSequence>
+		<SpawnSequence count="2" free="false" time="13">
+			<SpawnData id = "0">
+				<CarData line = "0" count="6">
+					<Car speed="0" dist="20" type="mega" />
+					<Car speed="0" dist="33" type="mega" />
+					<Car speed="0" dist="46" type="mega" />
+					<Car speed="0" dist="59" type="mega" />
+					<Car speed="0" dist="72" isBig="false" />
+					<Car speed="0" dist="85" isBig="false" />
+				</CarData>
+				<CarData line = "1" count="5">
+					<Car speed="0" dist="18" type="mega" />
+					<Car speed="0" dist="46" isBig="false" />
+					<Car speed="0" dist="59" type="mega" />
+					<Car speed="0" dist="72" isBig="false" />
+					<Car speed="0" dist="85" isBig="false" />
+				</CarData>
+				<CarData line = "2" count="5">
+					<Car speed="0" dist="33" isBig="false" />
+					<Car speed="0" dist="46" isBig="false" />
+					<Car speed="0" dist="59" type="mega" />
+					<Car speed="0" dist="72" type="mega" />
+					<Car speed="0" dist="85" type="mega" />
+				</CarData>
+				<CarData line = "3" count="6">
+					<Car speed="0" dist="20" type="mega" />
+					<Car speed="0" dist="33" type="mega" />
+					<Car speed="0" dist="46" type="mega" />
+					<Car speed="0" dist="59" type="mega" />
+					<Car speed="0" dist="72" isBig="false" />
+					<Car speed="0" dist="85" isBig="false" />
+				</CarData>
+			</SpawnData>
+			<SpawnData id = "1">
+				<CarData line = "0" count="4">
+					<Car speed="0" dist="78" type="mega" />
+					<Car speed="0" dist="91" type="mega" />
+					<Car speed="0" dist="104" type="mega" />
+					<Car speed="0" dist="117" type="mega" />
+				</CarData>
+				<CarData line = "1" count="2">
+					<Car speed="0" dist="78" type="mega" />
+					<Car speed="0" dist="91" type="mega" />
+				</CarData>
+				<CarData line = "2" count="1">
+					<Car speed="0" dist="78" type="mega" />
+				</CarData>
+				<CarData line = "3" count="7">
+					<Car speed="0" dist="78" type="mega" />
+					<Car speed="0" dist="91" type="mega" />
+					<Car speed="0" dist="104" type="mega" />
+					<Car speed="0" dist="117" type="mega" />
+					<Car speed="0" dist="130" type="mega" />
+					<Car speed="0" dist="143" type="big" />
+					<Car speed="0" dist="153" type="big" />
+				</CarData>
+			</SpawnData>
+		</SpawnSequence>
+		<SpawnSequence count="1" free="false" time="10">
+			<SpawnData id = "0">
+				<CarData line = "0" count="7">
+					<Car speed="0" dist="20" type="mega" />
+					<Car speed="0" dist="33" type="mega" />
+					<Car speed="0" dist="46" type="mega" />
+					<Car speed="0" dist="56" type="car" />
+					<Car speed="0" dist="65" type="mega" />
+					<Car speed="0" dist="78" type="mega" />
+					<Car speed="0" dist="91" type="big" />
+				</CarData>
+				<CarData line = "1" count="6">
+					<Car speed="0" dist="18" type="mega" />
+					<Car speed="0" dist="31" type="mega" />
+					<Car speed="0" dist="38" type="car" />
+					<Car speed="0" dist="48" type="car" />
+					<Car speed="0" dist="61" type="car" />
+					<Car speed="0" dist="68" type="car" />
+				</CarData>
+				<CarData line = "2" count="8">
+					<Car speed="0" dist="33" type="car" />
+					<Car speed="0" dist="40" type="car" />
+					<Car speed="0" dist="47" type="car" />
+					<Car speed="0" dist="55" type="car" />
+					<Car speed="0" dist="65" type="car" />
+					<Car speed="0" dist="72" type="car" />
+					<Car speed="0" dist="80" type="car" />
+					<Car speed="0" dist="88" type="car" />
+				</CarData>
+				<CarData line = "3" count="7">
+					<Car speed="0" dist="20" type="car" />
+					<Car speed="0" dist="33" type="big" />
+					<Car speed="0" dist="40" type="car" />
+					<Car speed="0" dist="50" type="big" />
+					<Car speed="0" dist="76" type="car" />
+					<Car speed="0" dist="85" type="big" />
+					<Car speed="0" dist="95" type="big" />
+				</CarData>
+			</SpawnData>
+		</SpawnSequence>
+		<SpawnSequence count="1" free="false" time="7">
+			<SpawnData id = "0">
+				<CarData line = "0" count="5">
+					<Car speed="0" dist="20" type="mega" />
+					<Car speed="0" dist="31" type="car" />
+					<Car speed="0" dist="38" type="car" />
+					<Car speed="0" dist="45" type="car" />
+					<Car speed="0" dist="52" type="car" />
+				</CarData>
+				<CarData line = "1" count="4">
+					<Car speed="0" dist="18" type="mega" />
+					<Car speed="0" dist="31" type="car" />
+					<Car speed="0" dist="37" type="car" />
+					<Car speed="0" dist="45" type="car" />
+				</CarData>
+				<CarData line = "2" count="4">
+					<Car speed="0" dist="20" type="mega" />
+					<Car speed="0" dist="33" type="mega" />
+					<Car speed="0" dist="42" type="car" />
+					<Car speed="0" dist="51" type="mega" />
+				</CarData>
+				<CarData line = "3" count="5">
+					<Car speed="0" dist="31" type="car" />
+					<Car speed="0" dist="38" type="car" />
+					<Car speed="0" dist="45" type="car" />
+					<Car speed="0" dist="52" type="car" />
+					<Car speed="0" dist="61" type="mega" />
+				</CarData>
+			</SpawnData>
+		</SpawnSequence>
+		<SpawnSequence count="1" free="false" time="11">
+			<SpawnData id = "0">
+				<CarData line = "0" count="5">
+					<Car speed="0" dist="19" type="car" />
+					<Car speed="0" dist="33" type="mega" />
+					<Car speed="0" dist="46" type="mega" />
+					<Car speed="0" dist="59" type="big" />
+					<Car speed="0" dist="68" type="mega" />
+				</CarData>
+				<CarData line = "1" count="4">
+					<Car speed="0" dist="18" type="mega" />
+					<Car speed="0" dist="30" type="car" />
+					<Car speed="0" dist="38" type="car" />
+					<Car speed="0" dist="47" type="car" />
+				</CarData>
+				<CarData line = "2" count="6">
+					<Car speed="0" dist="22" type="big" />
+					<Car speed="0" dist="30" type="moto" />
+					<Car speed="0" dist="35" type="moto" />
+					<Car speed="0" dist="40" type="car" />
+					<Car speed="0" dist="53" type="mega" />
+				</CarData>
+				<CarData line = "3" count="4">
+					<Car speed="0" dist="31" type="mega" />
+					<Car speed="0" dist="41" type="car" />
+					<Car speed="0" dist="47" type="car" />
+					<Car speed="0" dist="54" type="car" />
+				</CarData>
+			</SpawnData>
+		</SpawnSequence>
+		<SpawnSequence count="1" free="false" time="7">
+			<SpawnData id = "0">
+				<CarData line = "0" count="9">
+					<Car speed="0" dist="20" type="big" />
+					<Car speed="0" dist="28" type="car" />
+					<Car speed="0" dist="35" type="car" />
+					<Car speed="0" dist="42" type="car" />
+					<Car speed="0" dist="50" type="car" />
+					<Car speed="0" dist="58" type="car" />
+					<Car speed="0" dist="65" type="car" />
+					<Car speed="0" dist="73" type="car" />
+					<Car speed="0" dist="85" type="mega" />
+				</CarData>
+				<CarData line = "1" count="10">
+					<Car speed="0" dist="18" type="mega" />
+					<Car speed="0" dist="27" type="car" />
+					<Car speed="0" dist="35" type="car" />
+					<Car speed="0" dist="43" type="car" />
+					<Car speed="0" dist="52" type="car" />
+					<Car speed="0" dist="61" type="car" />
+					<Car speed="0" dist="74" type="mega" />
+					<Car speed="0" dist="83" type="car" />
+					<Car speed="0" dist="91" type="car" />
+					<Car speed="0" dist="100" type="car" />
+				</CarData>
+				<CarData line = "2" count="9">
+					<Car speed="0" dist="20" type="moto" />
+					<Car speed="0" dist="28" type="mega" />
+					<Car speed="0" dist="39" type="car" />
+					<Car speed="0" dist="47" type="car" />
+					<Car speed="0" dist="60" type="mega" />
+					<Car speed="0" dist="70" type="car" />
+					<Car speed="0" dist="79" type="car" />
+					<Car speed="0" dist="87" type="car" />
+					<Car speed="0" dist="86" type="car" />
+				</CarData>
+				<CarData line = "3" count="9">
+					<Car speed="0" dist="20" type="car" />
+					<Car speed="0" dist="27" type="car" />
+					<Car speed="0" dist="38" type="mega" />
+					<Car speed="0" dist="50" type="big" />
+					<Car speed="0" dist="65" type="mega" />
+					<Car speed="0" dist="71" type="car" />
+					<Car speed="0" dist="80" type="car" />
+					<Car speed="0" dist="89" type="car" />
+					<Car speed="0" dist="98" type="car" />
+				</CarData>
+			</SpawnData>
+		</SpawnSequence>
+	</Podstavi>
+	<LesoPodstavi count="2">
+		<ForestSequence count="1" free="false" time="7">
+			<SpawnData id = "0">
+				<EntityData line = "0" count="4">
+					<Entity speed="0" dist="24" type="lift" />
+					<Entity speed="0" dist="33" type="mega" />
+					<Entity speed="0" dist="46" type="mega" />
+					<Entity speed="0" dist="80" type="mega" bonusId="0"/>
+				</EntityData>
+				<EntityData line = "1" count="3">
+					<Entity speed="10" dist="120" type="mega" />
+					<Entity speed="10" dist="145" type="mega" />
+					<Entity speed="10" dist="170" type="mega" />
+				</EntityData>
+				<EntityData line = "2" count="3">
+					<Entity speed="0" dist="24" type="lift" />
+					<Entity speed="0" dist="33" type="mega" />
+					<Entity speed="0" dist="46" type="mega" />
+				</EntityData>
+			</SpawnData>
+		</ForestSequence>
+		<ForestSequence count="1" free="true" time="3">
+			<SpawnData id = "0">
+				<EntityData line = "0" count="2">
+					<Entity speed="0" dist="24" type="lift" />
+					<Entity speed="0" dist="33" type="mega" />
+				</EntityData>
+				<EntityData line = "1" count="1">
+					<Entity speed="50" dist="0" type="empty" />
+				</EntityData>
+				<EntityData line = "2" count="3">
+					<Entity speed="0" dist="24" type="lift" />
+					<Entity speed="0" dist="33" type="mega" />
+					<Entity speed="0" dist="56" type="big" />
+				</EntityData>
+			</SpawnData>
+		</ForestSequence>
+	</LesoPodstavi>
+</AnimalRun>
